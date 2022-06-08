@@ -21,4 +21,5 @@ class Ooo():
         print('git')
 
 print('ttestttt')
+print('dev')
 Ooo().aaa()
