@@ -13,6 +13,6 @@ class Ass():
     def a1(self):
         print("10000")
     def a2(self):
-        print("qwerr")
+        print("qwerr8")
         
         
