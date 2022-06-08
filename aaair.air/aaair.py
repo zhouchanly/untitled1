@@ -11,7 +11,7 @@ class Ass():
     def __init__(self):
         print('__init__')
     def a1(self):
-        print("1234")
+        print("10000")
     def a2(self):
         print("qwerr")
         

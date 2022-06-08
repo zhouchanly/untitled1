@@ -15,7 +15,7 @@ a.a2()
 
 class Ooo():
     def aaa(self):
-        print('8888888888')
+        print('1111')
 
     def airrr(self):
         print('git')
