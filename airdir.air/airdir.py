@@ -18,7 +18,7 @@ class Ooo():
         print('8888888888')
 
     def airrr(self):
-        pass
+        print('seb')
 
 print('tt')
 Ooo().aaa()
