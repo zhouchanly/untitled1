@@ -20,5 +20,5 @@ class Ooo():
     def airrr(self):
         print('git')
 
-print('ttest')
+print('ttestttt')
 Ooo().aaa()
