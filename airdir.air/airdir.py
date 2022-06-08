@@ -18,7 +18,7 @@ class Ooo():
         print('8888888888')
 
     def airrr(self):
-        print('seb')
+        print('git')
 
 print('tt')
 Ooo().aaa()
