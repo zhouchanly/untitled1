@@ -20,6 +20,6 @@ class Ooo():
     def airrr(self):
         print('git')
 
-print('ttestttt')
-print('dev')
+print('test')
+
 Ooo().aaa()
